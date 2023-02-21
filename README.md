@@ -12,7 +12,7 @@
         </td>
         <br />
         <td align="center">
-        <a href="">
+        <a href="https://github.com/hyeonaseome">
             <img src="" width="100px;" alt="Jeroen Engels"/>
             <br />
             <sub><b>김송빈</b></sub>
@@ -21,7 +21,7 @@
         </td>
         <td align="center">
         <a href="">
-            <img src="" width="100px;" alt="Jeroen Engels"/>
+            <img src="https://avatars.githubusercontent.com/u/109887404?v=4" width="100px;" alt="Jeroen Engels"/>
             <br />
             <sub><b>서현아</b></sub>
         </a>
