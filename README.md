@@ -72,13 +72,13 @@
 
 2. git commit message
 ```
-git commit -m "본인 이름: Algo 문제종류 문제이름"
-git commit -m "본인 이름: CS 문제종류 문제간단설명"
+git commit -m "본인 이름: 문제종류 문제번호 문제이름"
+git commit -m "본인 이름: 문제종류 문제간단설명"
 ```
 ```
 [예시]
-염정아: Algo BJ 사다리 타기
-염정아: CS 컴퓨터네트워크 OSI 7계층
+염정아: BJ 2469 사다리 타기
+염정아: 컴퓨터네트워크 OSI 7계층
 ```
 <br/>
 
